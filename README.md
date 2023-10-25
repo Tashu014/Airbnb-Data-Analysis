@@ -15,7 +15,7 @@ The dataset encompasses a variety of metrics related to Airbnb listings in San D
 - Pandas, NumPy, Scikit-learn
 - Matplotlib, Seaborn
 - Jupyter Notebook
-
+## Visualizations
 ![outlier detection](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/36331731-1e79-47f2-8290-9f9c44944fc7)
 ![heatmap of room types in neighborhoods](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/4cffd498-746e-440d-96de-47469f00061a)
 ![average price by neighborhood](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/b820ff0e-3cd6-455e-acf4-58a018fb1619)
