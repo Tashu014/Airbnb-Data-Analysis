@@ -15,6 +15,8 @@ The dataset encompasses a variety of metrics related to Airbnb listings in San D
 - Pandas, NumPy, Scikit-learn
 - Matplotlib, Seaborn
 - Jupyter Notebook
+![output_11_0](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/36331731-1e79-47f2-8290-9f9c44944fc7)
+
 ## Contact
 
 Tashu - [LinkedIn](https://linkedin.com/in/tashugarg) 
