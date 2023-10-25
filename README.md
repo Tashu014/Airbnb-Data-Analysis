@@ -15,9 +15,20 @@ The dataset encompasses a variety of metrics related to Airbnb listings in San D
 - Pandas, NumPy, Scikit-learn
 - Matplotlib, Seaborn
 - Jupyter Notebook
-![output_11_0](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/36331731-1e79-47f2-8290-9f9c44944fc7)
+
+![outlier detection](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/36331731-1e79-47f2-8290-9f9c44944fc7)
+![heatmap of room types in neighborhoods](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/4cffd498-746e-440d-96de-47469f00061a)
+![average price by neighborhood](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/b820ff0e-3cd6-455e-acf4-58a018fb1619)
+![highly rated listings](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/7c1f5d5c-f269-4d5d-812f-d32a5ffddc8c)
+![categorical data analysis](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/70d9c0b4-ab6c-4b32-8236-40e3aa240d9a)
+![overall satisfaction scores](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/17adde1d-5a98-43c8-8e26-1557a1bcf684)
+![price vs overall satisfaction](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/faa92d6d-d2d8-4d4e-8671-d44005e45e3a)
+![distribution of prices](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/387e9e0b-550a-488c-bb54-f5d50f532953)
+![geographical distribution of prices](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/cb184386-3de2-4614-9909-c2a3ec0525d5)
+![correlation matrix](https://github.com/Tashu014/Airbnb-Data-Analysis/assets/87379455/4c7a3551-2b35-470b-a8de-b2d985075ebf)
 
 ## Contact
+
 
 Tashu - [LinkedIn](https://linkedin.com/in/tashugarg) 
 
