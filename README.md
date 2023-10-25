@@ -1,7 +1,7 @@
 # Airbnb-Data-Analysis
+This project is an in-depth analysis of Airbnb's dataset for the year 2019, focusing on listing activities and metrics in San Diego, California. Through data exploration, cleaning, visualization, and statistical analysis, we uncover insights into the rental landscape, influencing factors for rental prices, customer satisfaction, and more. 
 # Version
 1.0
-This project is an in-depth analysis of Airbnb's dataset for the year 2019, focusing on listing activities and metrics in San Diego, California. Through data exploration, cleaning, visualization, and statistical analysis, we uncover insights into the rental landscape, influencing factors for rental prices, customer satisfaction, and more. 
 ## Features
 - Comprehensive data cleaning and preprocessing
 - In-depth exploratory data analysis
