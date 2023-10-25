@@ -17,7 +17,7 @@ The dataset encompasses a variety of metrics related to Airbnb listings in San D
 - Jupyter Notebook
 ## Contact
 
-Tashu - [@tashu](https://linkedin.com/in/tashugarg) 
+Tashu - [LinkedIn](https://linkedin.com/in/tashugarg) 
 
 Project Link: [https://github.com/tashu014/Airbnb Data Analysis](https://github.com/tashu014/Airbnb-Data-Analysis)
 
